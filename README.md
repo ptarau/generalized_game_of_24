@@ -1,4 +1,4 @@
-#Generalized Game of 24 solver and generator
+# Generalized Game of 24 solver and generator
 
 ## Written in portable Prolog, as elegantly as possible :-)
 
