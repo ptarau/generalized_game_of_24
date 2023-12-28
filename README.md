@@ -2,7 +2,7 @@
 
 ## Written in portable Prolog, as elegantly as possible :-)
 
-##### To solve an instance of the classic Game24 where you need to use all the 4 numbers with any of the 4 basic arithmetic operation to obtain the result 24.
+##### To solve an instance of the classic [Game of 24](https://en.wikipedia.org/wiki/24_(puzzle)) where you need to use all the 4 numbers with any of the 4 basic arithmetic operation to obtain the result 24.
 
 ```
 ?- go(3,5,5,7). % all solutions
